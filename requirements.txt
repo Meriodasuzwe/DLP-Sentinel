@@ -1,0 +1,8 @@
+PyQt5==5.15.10
+watchdog==4.0.0
+opencv-python==4.9.0.80
+requests==2.31.0
+python-dotenv==1.0.1
+psutil==5.9.8
+pyTelegramBotAPI
+pyinstaller
